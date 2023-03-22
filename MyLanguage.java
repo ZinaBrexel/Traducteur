@@ -1,6 +1,7 @@
 public enum MyLanguage {
     ANGLAIS("Langue 1"),
-    BRETON("Langue 2");
+    BRETON("Langue 2"),
+    TOGOLAIS("Langue 3");
 
     private final String displayName;
 

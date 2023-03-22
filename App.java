@@ -9,6 +9,8 @@ public class App {
         vEnglish.addDictionary("Bonjour", "Hello");
         Breton vBreton = new Breton();
         vBreton.addDictionary("Bonjour", "Demat");
+        Togolais vTogolais = new Togolais();
+        vTogolais.addDictionary("Bonjour", "ŋdi");
 
 // Afficher les langues disponibles
         System.out.println("Langues disponibles : ");
