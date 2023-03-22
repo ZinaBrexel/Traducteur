@@ -42,6 +42,10 @@ public class App {
             case BRETON:
                 System.out.println(vBreton.getTraduction("Bonjour"));
                 break;
+
+            case TOGOLAIS:
+                System.out.println(vTogolais.getTraduction("Bonjour"));
+                break;
             default:
                 break;
         }
